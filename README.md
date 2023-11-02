@@ -97,6 +97,3 @@ Rode a aplicação (IDE INTELLIJ)
 
 Neste projeto foi possível aprender e aprimorar conceitos, teorias e práticas com Spring Boot em Java.
 A criação desta API Rest com CRUD completo, utilizando dependencias como Lombok para construção de Getters, Args e EqualsAndHashCode. Spring Data JPA para persistir os dados no banco de dados, utilizando JpaRepository. Flyway Migration para trabalhar com as migrations necessárias e ter um histórico da evolução do banco de dados. E por fim, Spring Web: onde conseguimos mapear a nossa API para receber as requisições e funcionar nosso CRUD.
-
-
-## Autores
